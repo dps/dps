@@ -1,2 +1,4 @@
 # dps
-bonjourmaclasse
+David Singleton
+
+[my blog](http://blog.singleton.io)
